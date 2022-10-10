@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/apple-clone-clone/static/css/main.dbb5ecfb.css",
-    "main.js": "/apple-clone-clone/static/js/main.51018f4c.js",
+    "main.js": "/apple-clone-clone/static/js/main.130ab405.js",
     "static/js/787.3e362580.chunk.js": "/apple-clone-clone/static/js/787.3e362580.chunk.js",
     "static/media/promo_apple_watch_se__f9702l6odgi2_small_2x.jpg": "/apple-clone-clone/static/media/promo_apple_watch_se__f9702l6odgi2_small_2x.c9976b4d51f1f7a9b50a.jpg",
     "static/media/hero_apple_watch_series_8__bjc1ok5mkjua_large.jpg": "/apple-clone-clone/static/media/hero_apple_watch_series_8__bjc1ok5mkjua_large.b65f0de7c84b71b5a9af.jpg",
@@ -35,11 +35,11 @@
     "index.html": "/apple-clone-clone/index.html",
     "static/media/search.svg": "/apple-clone-clone/static/media/search.22a3279f7ac969573247.svg",
     "main.dbb5ecfb.css.map": "/apple-clone-clone/static/css/main.dbb5ecfb.css.map",
-    "main.51018f4c.js.map": "/apple-clone-clone/static/js/main.51018f4c.js.map",
+    "main.130ab405.js.map": "/apple-clone-clone/static/js/main.130ab405.js.map",
     "787.3e362580.chunk.js.map": "/apple-clone-clone/static/js/787.3e362580.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dbb5ecfb.css",
-    "static/js/main.51018f4c.js"
+    "static/js/main.130ab405.js"
   ]
 }
