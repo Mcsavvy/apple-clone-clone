@@ -18,8 +18,8 @@ function IPhone14Pro(){
                     </TitleSubHeading>
                 </Title>
                 <Cta>
-                    <CtaLink>Learn more</CtaLink>
-                    <CtaLink>Buy </CtaLink>
+                    <CtaLink>{"Learn more >"}</CtaLink>
+                    <CtaLink>{"Buy >"}</CtaLink>
                 </Cta>
             </Container>
         </Hero>
@@ -42,10 +42,10 @@ function IPhone14() {
                     </TitleParagraph>
                     <Cta>
                         <CtaLink darker>
-                            Learn more
+                            {"Learn more >"}
                         </CtaLink>
                         <CtaLink darker>
-                            Shop
+                            {"Shop >"}
                         </CtaLink>
                     </Cta>
                 </Title>
@@ -65,8 +65,8 @@ function Watch() {
                     </TitleSubHeading>
                 </Title>
                 <Cta>
-                    <CtaLink darker>Learn more </CtaLink>
-                    <CtaLink darker>Buy </CtaLink>
+                    <CtaLink darker>{"Learn more >"}</CtaLink>
+                    <CtaLink darker>{"Buy >"}</CtaLink>
                 </Cta>
             </Container>
         </Hero>
@@ -144,10 +144,10 @@ function Grid() {
                             Offer ends 9.26
                         </TitleHeading>
                         <TitleHeading component="h3">
-                            Get supercharged <br> for college</br>
+                            Get supercharged <br/> for college
                         </TitleHeading>
                         <TitleParagraph className="title-paragraph7">
-                            Lastchance to get a gitf card.
+                            Last chance to get a gift card.
                         </TitleParagraph>
                     </Title>
                     <Cta>

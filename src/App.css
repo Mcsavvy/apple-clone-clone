@@ -28,6 +28,7 @@ a {
 header {
   position: fixed;
   top: 0;
+  padding-top: 2rem;
   width: 100%;
   z-index: 1400;
   height: 4.4rem;
@@ -336,6 +337,7 @@ header {
 @media screen and (max-width: 767px) {
   header {
     height: 4.8rem;
+    padding-top: 0rem;
     transition: background 0.36s cubic-bezier(0.32, 0.08, 0.24, 1),
       height 0.56s cubic-bezier(0.32, 0.08, 0.24, 1);
   }
@@ -408,6 +410,7 @@ header {
 
   header.active {
     height: 100%;
+    padding-top: 0rem;
     background-color: black;
   }
 

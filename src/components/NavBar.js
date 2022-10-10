@@ -51,7 +51,7 @@ function Hamburger({active})
             document.querySelector("header")
             .classList.toggle("active");
         }}>
-            <div class={classes}>
+            <div className={classes}>
                 <span className="line line-top"/>
                 <span className="line line-bottom"/>
             </div>
@@ -63,8 +63,8 @@ function NavList()
 {
    return (
         <ul className="nav-list nav-list-larger">
-            {items.map(props => (
-                <NavItem {...props}>
+            {items.map((props, index) => (
+                <NavItem {...props} key={index}>
                     {props.body}
                 </NavItem>
             ))}
@@ -85,7 +85,7 @@ function NavListMobile() {
 export default function NavBar() {
     return (
         <Container>
-            <nav class="nav">
+            <nav className="nav">
                 <NavListMobile/>
                 <NavList/>
             </nav>
